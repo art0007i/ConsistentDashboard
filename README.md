@@ -1,6 +1,6 @@
 # ConsistentDashboard
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that makes it so the dashboard is always the same resolution in vr and in desktop.
+A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that makes it so the dashboard is always the same resolution in VR and in desktop mode.
 
 Also has a config option that allows changing this resolution.
 
